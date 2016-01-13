@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>profile_binit</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		
+	</head>
+	<body>
+
+      
+    
+    
+  </section>	
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
+				<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="../homepage/volunteer_home.html">Home</a></li>						
+						<li class="active"><a href="Profile-binit.html">Profile</a></li>
+						<li class="active"><a href="../linerarbinit/aboutus.html">Our Story</a></li>
+						<li class="active"><a href="../linerarbinit/support.html">Support</a></li>
+						<li class="active"><a href="../linerarbinit/contact.html">Contact</a></li>
+				</ul>
+				</nav>
+			</div>
+			<div class="container"> 
+				
+				<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#"> <p><p><p> </a></h1>
+					<span class="tag">  </span>
+				</div>
+			</div>
+		</div>
+	<!-- Header --> 
+
+	<!-- Main -->
+		<div id="main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Sidebar -->
+					<div id="sidebar" class="4u">
+						<section>
+							<header>
+								<h2>Profile</h2>
+							</header>
+							<div class="row">
+								<section class="6u">
+									<ul class="default">
+										<li><a href="#">26th March 1997</a></li>
+										<li><a href="#">Male</a></li>
+										<li><a href="#">2027962346</a></li>
+										<li><a href="#">511 Gresham Pl NW</a></li>
+										<li><a href="../google login/profie.html">Friends</a></li>
+									</ul>
+								</section>
+								
+							</div>
+						</section>
+						<section>
+							<header>
+								<h2>RSVPed Events</h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">Oct 21, 2015  |  Nov 18, 2015</p>
+									<p><a href="#">Code for Life</a></p>
+								</li>
+								<li>
+									<p class="posted">Oct 18, 2015  |  Oct 22, 2015</p>
+									<p><a href="#">Shanti's Margot Murphy, Breast Cancer Program</a></p>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h2>Attended Events</h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">May 21, 2015  |  May 26, 2015</p>
+									<p><a href="#">PN Campus Fund Raising for Earthquake Victims</a></p>
+								</li>
+								<li>
+									<p class="posted">June 18, 2014  |  June 20, 2015</p>
+									<p><a href="#">Library Establishment Program</a></p>
+								</li>
+							</ul>
+						</section>
+					</div>
+					
+					<!-- Content -->
+					<div id="content" class="8u skel-cell-important">
+						<section>
+						<img class="img-circle" src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/58243_4637247661249_1531081829_n.jpg?oh=8910e0f8b47db30a528628eda6593930&oe=5689BC5D">							
+							<header>
+								<h2>Binit Koirala</h2>
+								<span class="byline">Volunteer</span>
+							</header>
+							</section>
+						
+						<section>
+						<header>
+							<span class="byline">Community</span>
+							</header>
+								<p>Abhiyan Sapkota</p>
+								<p>Saugat Tripathi</p>
+								<p>Johan Levie</p>
+								<p>Chibike Agba</p>							
+							
+							</section>
+							<section>
+						<header>
+							<span class="byline">Circle</span>
+							</header>
+								<p>“I had a fun last weekend meeting people at the Cancer fighters workshop. It was so satisfying.”</p>
+								<p>- Anish</p>
+								<p>“I wish I had attended that, Anish. I hope to meet you at the marathon for heart event.”</p>
+								<p>- Pranaya</p>							
+							</section>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	<!-- /Main -->
+
+	<!-- Tweet -->
+		<div id="tweet">
+			<div class="container">
+				<section>
+					<blockquote>&ldquo;Those who are the happiest are those who do the most for others -Booker T. Washington &rdquo;</blockquote>
+				</section>
+			</div>
+		</div>
+	<!-- /Tweet -->
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<section>
+					<header>
+						<h2>Get in touch</h2>
+						<span class="byline">Connect with us on social media.</span>
+					</header>
+					<ul class="contact">
+						<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
+						<li class="active"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
+						<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
+						<li><a href="#" class="fa fa-tumblr"><span>Google+</span></a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	<!-- /Footer -->
+
+	
+
+	</body>
+</html>
